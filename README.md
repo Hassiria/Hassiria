@@ -6,8 +6,8 @@
 ### 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Hassiria&show_icons=true&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassiria&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hassiria&show_icons=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassiria&layout=compact&theme=dracula"/>
 </p>
 
 ---
